@@ -3,14 +3,14 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mr.Cho
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Rowdy", 2,
 "M", "Red", "Nice", "Y");
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Tabitha",
-5, "F", "orange", "loving", "Y");
+5, "F", "Orange", "Loving", "Y");
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Sergeant Brown",
-9, "M", "blue", "aggresive", "N");
+9, "M", "Blue", "Aggresive", "N");
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Melissa",
-4, "F", "purple", "peaceful", "Y");
+4, "F", "Purple", "Peaceful", "Y");
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Grinch",
-3, "M", "green", "sneaky", "Y");
+3, "M", "Green", "Sneaky", "Y");
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Wendy",
-2, "F", "siler", "content", "Y");
+2, "F", "Silver", "Content", "Y");
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (NULL,
-NULL, "M", "brown", "violent", "N");
+NULL, "M", "Brown", "Violent", "N");
